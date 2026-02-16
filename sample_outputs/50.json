@@ -1,0 +1,8 @@
+{
+  "sample_id": 50,
+  "original_description": "Kinder-Mädchen-T-Shirt mit Brusttasche\nDieses Kinder Mädchen T-Shirt von Kids überzeugt durch sein verspieltes Design mit einer Tasche, die ein Allover-Print-Detail aufweist. Aus reiner Baumwolle gefertigt, bietet es einen hohen Tragekomfort und ist nach OEKO-TEX® Standard 100 zertifiziert.\n\n\n\tVerspieltes Design mit Taschen-Detail\n\tReine Baumwolle für angenehmen Komfort\n\tOEKO-TEX® Standard 100 zertifiziert\n\tPerfekt für den Alltag geeignet\n\n\nKinder Mädchen T-Shirt",
+  "generation_prompt": "Professional product photography of a Children's T-shirt, featuring chest pocket, all-over print detail, pure cotton, OEKO-TEX® Standard 100 certified, playful design, pocket detail, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Children's T-shirt",
+  "clip_score": 28.39389991760254,
+  "image_path": "output/50.png"
+}

@@ -1,0 +1,8 @@
+{
+  "sample_id": 40,
+  "original_description": "Damen-Funktions-T-Shirt mit Kontrasteinsatz\nDas Essentials Funktions-T-Shirt von sports bietet Ihnen optimalen Komfort für Ihre sportlichen Aktivitäten. Mit seinem atmungsaktiven und schnelltrocknenden Material sowie reflektierenden Prints ist es ideal für aktive Tage. Die seitlichen Einsätze in Kontrast und der Rundhalsausschnitt verleihen dem T-Shirt ein modernes Design.\n\n\n\tEssentials Funktions-T-Shirt mit Melange-Effekt\n\tRundhalsausschnitt für bequemen Sitz\n\tSeitliche Einsätze in Kontrastfarbe\n\tReflektierende Prints für bessere Sichtbarkeit\n\tSchnelltrocknend und atmungsaktiv\n\tAntibakterielle Eigenschaften\n\n\nT-Shirt",
+  "generation_prompt": "Professional product photography of a Women's functional t-shirt, featuring contrast inserts, reflective prints, contrast color, breathable material, crew neck, side inserts, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Women's functional t-shirt",
+  "clip_score": 27.97998809814453,
+  "image_path": "output/40.png"
+}

@@ -1,0 +1,38 @@
+Requirements/installations for the code to run
+'''
+1. System Requirements
+OS: Linux (recommended) or Windows (with WSL2 for optimal performance).
+GPU: NVIDIA GPU (e.g., RTX 3060+ with ≥12GB VRAM) for CUDA acceleration.
+CUDA: Version 11.8 or 12.x (must match PyTorch version).
+Python: 3.9 or 3.10 (verified compatibility with the libraries below).
+'''
+#Python Packages
+Install via pip (recommended to use a virtual environment, e.g., conda or venv):
+bash:-
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118  # CUDA 11.8
+pip install transformers>=4.40.0 diffusers>=0.27.0 accelerate sentencepiece
+pip install pandas openpyxl pillow numpy scipy  # Data/Image handling
+pip install langdetect  # Suggested for language detection (optional)
+
+
+#Hugging Face Models & Libraries
+bash:-
+huggingface-cli login
+export HF_TOKEN="Create_your_HF_token"
+
+# LLM and Translation
+huggingface-cli download microsoft/phi-3-mini-4k-instruct
+huggingface-cli download Helsinki-NLP/opus-mt-de-en
+
+# CLIP for scoring
+huggingface-cli download openai/clip-vit-large-patch14
+
+# Diffusion Pipeline
+huggingface-cli download black-forest-labs/FLUX.1-schnell
+huggingface-cli download aihpi/flux-fashion-lora --include="*.safetensors"
+
+# Environment Variables
+Set these paths in your shell script or in the main code:
+export HF_HOME="/path/to/cache"  # Custom cache directory
+export HF_DATASETS_CACHE="/path/to/cache"
+

@@ -1,0 +1,8 @@
+{
+  "sample_id": 11,
+  "original_description": "Herren-Funktions-Poloshirt mit Mesh-Einsätzen\nDas Herren-Funktions-Poloshirt von sports überzeugt mit einem modernen Rundhalsausschnitt und einer stilvollen Knopfleiste. Der kleine Logo-Print auf der linken Brust verleiht ihm einen sportlichen Look. Atmungsaktiv und schnelltrocknend, bietet es durch kühlende Mesh-Einsätze optimalen Tragekomfort.\n\n\n\tHerren-Funktions-Poloshirt mit Rundhalsausschnitt\n\tKleiner Logo-Print auf linker Brust\n\tPraktische Knopfleiste vorne\n\tAtmungsaktiv und schnelltrocknend\n\tKühlende Mesh-Einsätze für Komfort\n\tHochwertiges Polyester-Material\n\n\nPoloshirt",
+  "generation_prompt": "Professional product photography of a Men's functional polo shirt, featuring modern crew neck, stylish button placket, small logo print on the left chest, High-quality polyester, cooling mesh inserts, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Men's functional polo shirt",
+  "clip_score": 28.61875343322754,
+  "image_path": "output/11.png"
+}

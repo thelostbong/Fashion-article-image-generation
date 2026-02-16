@@ -1,0 +1,8 @@
+{
+  "sample_id": 31,
+  "original_description": "Kinder-Jungen-T-Shirt mit Druck\nDas Kinder-Jungen-T-Shirt von Kids überzeugt durch sein stilvolles Design mit Dschungel-Druck und Blättermotiv. Der hohe Baumwollanteil sorgt für ein angenehmes Tragegefühl, während der Elasthananteil in den Bündchen für Flexibilität und Komfort sorgt. Zertifiziert nach OEKO-TEX® Standard 100.\n\n\n\tModernes Design mit grünem Dschungel-Druck\n\tHochwertiger Baumwollanteil\n\tElastische Bündchen für optimalen Sitz\n\tOEKO-TEX® Standard 100 zertifiziert\n\n\nKinder Jungen T-Shirt Bas",
+  "generation_prompt": "Professional product photography of a Kids' Young T-shirt, featuring jungle print, leaf motif, High-quality cotton, elastic cuffs, Modern design, OEKO-TEX® Standard 100 certified, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Kids' Young T-shirt",
+  "clip_score": 28.646739959716797,
+  "image_path": "output/31.png"
+}

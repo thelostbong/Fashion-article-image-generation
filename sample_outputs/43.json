@@ -1,0 +1,8 @@
+{
+  "sample_id": 43,
+  "original_description": "Kinder-Mädchen-Shirt mit Stickerei-Applikation\nDas künstlerische Design dieses Kinder-Mädchen-Shirts von Kids drückt sich in dem kunstvollem Motiv auf der Front und den hochwertigen Stickerei-Applikationen aus, die die Optik perfekt abrunden. Aus sanfter Baumwolle gefertigt bietet das Oberteil außerdem ein herausragendes Tragegefühl für den gesamten Tag.\n\n \n\n\n\tAus reiner Baumwolle\n\tOEKO-TEX® Standard 100\n\tIn coolem Design\n\n\nKinder Mädchen Shirt",
+  "generation_prompt": "Professional product photography of a Children's girl shirt, featuring artful motif, high-quality embroidery, soft cotton, pure cotton, cool design, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Children's girl shirt",
+  "clip_score": 26.6998291015625,
+  "image_path": "output/43.png"
+}

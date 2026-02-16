@@ -1,0 +1,8 @@
+{
+  "sample_id": 24,
+  "original_description": "Kinder-Jungen-T-Shirt mit großem Aufdruck\nDieses Kinder-Jungen-T-Shirt von Kids begeistert mit einem großen Faultier-Druck und dem Slogan \"Let's discover the World\". Der hohe Baumwollanteil sorgt für ein angenehmes Tragegefühl und die elastischen Bündchen bieten zusätzlichen Komfort. Zertifiziert nach OEKO-TEX® Standard 100.\n\n\n\tGroßer Faultier-Druck für Jungen\n\tHoher Baumwollanteil für Komfort\n\tElastische Bündchen für optimale Passform\n\tOEKO-TEX® Standard 100 zertifiziert\n\n\nKinder Jungen T-Shirt Bas",
+  "generation_prompt": "Professional product photography of a Children's Young T-shirt, featuring large sloth print, slogan 'Let's discover the World', high cotton content, elastic cuffs, OEKO-TEX® Standard 100 certified, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Children's Young T-shirt",
+  "clip_score": 28.414255142211914,
+  "image_path": "output/24.png"
+}

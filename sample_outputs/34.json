@@ -1,0 +1,8 @@
+{
+  "sample_id": 34,
+  "original_description": "Kinder-Jungen-T-Shirt mit Streifen\nDieses Kinder Jungen T-Shirt von Kids Edition bietet ein modernes Design mit dunkelblauen garngefärbten Streifen und einer praktischen unifarbenen Tasche. Der hohe Baumwollanteil sorgt für optimalen Tragekomfort. Zertifiziert nach OEKO-TEX® Standard 100, ist es besonders hautfreundlich.\n\n\n\tModernes Design mit Streifen\n\tPraktische unifarbene Tasche\n\tHoher Baumwollanteil für Komfort\n\tOEKO-TEX® Standard 100 zertifiziert\n\tIdeal für den täglichen Gebrauch\n\n\nKids Edition T-Shirt Jung",
+  "generation_prompt": "Professional product photography of a Kids-Young T-Shirt, featuring dark blue garnished stripes, plain-coloured bag, dark blue, high cotton content, modern design, OEKO-TEX® Standard 100 certified, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Kids-Young T-Shirt",
+  "clip_score": 24.287023544311523,
+  "image_path": "output/34.png"
+}

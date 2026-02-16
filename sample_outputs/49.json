@@ -1,0 +1,8 @@
+{
+  "sample_id": 49,
+  "original_description": "Herren-T-Shirt mit Graffiti-Druck\nDer auffallende Graffiti-Druck auf diesem Herren-T-Shirt von Reward ist ein echter Hingucker und ein ausgezeichneter Begleiter für den stylischen Mann. Für Komfort sorgt bei dem Oberteil die reine Baumwolle, die bei jeder Berührung das bekannte und begehrte Hautgefühl vermittelt.\n\n \n\n\n\tAus reiner Baumwolle\n\tMit beliebtem Rundhals\n\tIn angenehmer Qualität\n\n\nT-Shirt",
+  "generation_prompt": "Professional product photography of a Men's T-shirt, featuring graffiti print, striking, eye-catcher, pure cotton, skin feeling, round neck, pleasant quality, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Men's T-shirt",
+  "clip_score": 25.701934814453125,
+  "image_path": "output/49.png"
+}

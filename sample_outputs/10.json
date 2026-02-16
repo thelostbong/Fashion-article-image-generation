@@ -1,0 +1,8 @@
+{
+  "sample_id": 10,
+  "original_description": "Kinder-Mädchen-T-Shirt mit Frontaufdruck\nDieses Kinder Mädchen T-Shirt von Kids überzeugt mit seinem zauberhaften Druck von Welt, Schmetterlingen und dem Schriftzug Dream Journey. Hergestellt aus hochwertiger Baumwolle, bietet es ein angenehmes Tragegefühl und ist nach OEKO-TEX® Standard 100 zertifiziert.\n\n\n\tZauberhafter Druck mit Welt und Schmetterlingen\n\tHochwertige Baumwolle für angenehmen Komfort\n\tOEKO-TEX® Standard 100 zertifiziert\n\tPerfekt für den Alltag\n\n\nKinder Mädchen T-Shirt B",
+  "generation_prompt": "Professional product photography of a Kids T-shirt, featuring world, butterflies, Dream Journey, high quality cotton, OEKO-TEX® Standard 100 certified, magical print, pleasant wearing feeling, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Kids T-shirt",
+  "clip_score": 25.757793426513672,
+  "image_path": "output/10.png"
+}

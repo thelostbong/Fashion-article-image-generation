@@ -1,0 +1,8 @@
+{
+  "sample_id": 22,
+  "original_description": "Kinder-Mädchen-T-Shirt mit Elefanten-Motiv\nDieses Kinder Mädchen T-Shirt von Kids kombiniert spielerisches Design mit hoher Qualität. Der liebevolle Druck eines Elefanten mit Ballon macht es zum Lieblingsstück im Kleiderschrank. Das Obermaterial aus reiner Baumwolle sorgt für angenehmen Tragekomfort.\n\n\n\tDesign mit Elefant und Ballon\n\tBequemer Schnitt für Kinder\n\tHochwertige Baumwollqualität\n\tEinfassband mit Elasthan\n\tNach OEKO-TEX® Standard 100 zertifiziert\n\n\nKinder Mädchen T-Shirt B",
+  "generation_prompt": "Professional product photography of a Children's Girl T-Shirt, featuring elephant, balloon, cotton, elastane, comfortable cut, OEKO-TEX® Standard 100 certified, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Children's Girl T-Shirt",
+  "clip_score": 26.93406867980957,
+  "image_path": "output/22.png"
+}

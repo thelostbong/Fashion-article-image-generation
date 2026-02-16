@@ -1,0 +1,8 @@
+{
+  "sample_id": 57,
+  "original_description": "Kinder-Jungen-T-Shirt mit Brusttasche\nDas Kinder-Jungen-T-Shirt von Kids kombiniert stilvolles Design mit hohem Tragekomfort. Der Druck \"World Explorer\" und das gewebte Label verleihen dem T-Shirt eine besondere Note. Mit hohem Baumwollanteil und OEKO-TEX® Standard 100 Zertifizierung ist es zudem besonders hautfreundlich.\n\n\n\tStylisches Kinder-Jungen-T-Shirt\n\tMit coolem \"World Explorer\" Druck\n\tMit aufgesetzter Brusttasche\n\tGewebtes Label für einen besonderen Look\n\tHoher Baumwollanteil für Komfort\n\tOEKO-TEX® Standard 100 zertifiziert\n\n\nKinder Jungen T-Shirt",
+  "generation_prompt": "Professional product photography of a Kids' Young T-shirt, featuring World Explorer print, patched chest pocket, High cotton content, OEKO-TEX® Standard 100 certified, Woven label, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Kids' Young T-shirt",
+  "clip_score": 28.232276916503906,
+  "image_path": "output/57.png"
+}

@@ -1,0 +1,8 @@
+{
+  "sample_id": 6,
+  "original_description": "Kinder-Mädchen-T-Shirt mit Stickerei\nDas Kinder Mädchen T-Shirt von Kids überzeugt durch seine liebevollen Details und das angenehme Tragegefühl. Die bestickten Ärmel und die Stickerei \"Dream Journey\" verleihen dem Shirt eine besondere Note. Der hohe Baumwollanteil sorgt für Komfort und Atmungsaktivität, ideal für den Alltag.\n\n\n\tBestickte Ärmel für besonderen Charme\n\tStickerei \"Dream Journey\"\n\tHoher Baumwollanteil für Komfort\n\tOEKO-TEX® Standard 100 zertifiziert\n\n\nKinder Mädchen T-Shirt",
+  "generation_prompt": "Professional product photography of a Children's girl's T-shirt, featuring embroidered sleeves, embroidery 'Dream Journey', high cotton content, OEKO-TEX® Standard 100 certified, embroidered sleeves, 'Dream Journey' embroidery, placed on a clean white background, laid flat, studio lighting, 8k, 85mm lens f/2.8, no humans, no mannequins, no zoom, no tilt, no rotation, perfectly centered",
+  "clip_prompt": "Product image of a Children's girl's T-shirt",
+  "clip_score": 28.30940818786621,
+  "image_path": "output/6.png"
+}
